@@ -44,6 +44,7 @@ CCTV11 5.5M1080HEVC,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/322
 CCTV12 8M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
 CCTV13 4M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
 CCTV14 4M1080,http://183.207.249.106/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+CCTV15 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
 CCTV17 4M1080,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
 CCTV17 4M1080,http://183.207.249.237/ott.js.chinamobile.com/PLTV/3/224/3221227592/index.m3u8
 东南卫视 5.5M1080HEVC,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
